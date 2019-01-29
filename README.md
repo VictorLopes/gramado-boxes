@@ -5,7 +5,7 @@ Compiled from: <br />
 https://github.com/frednora/gramado <br />
 https://github.com/frednora/gde
 
-### gramado-v0.9-rc0 (compiled 27/01/2019)
+### gramado-v0.9-rc0 (compiled Jan 27 2019)
 Download: [gramado-v0.9-rc0.zip](https://github.com/VictorLopes/gramado-boxes/blob/master/gramado-v0.9-rc0.zip)
 #### Tools used for building this version
 Fedora 29: 4.20.3-200.fc29.x86_64<br />
