@@ -8,8 +8,8 @@ https://github.com/frednora/gde
 ### gramado-v0.24-rc5 (compiled Mar 13 2019)
 Download: [gramado-v0.24-rc5.zip](https://raw.githubusercontent.com/VictorLopes/gramado-boxes/master/gramado-v0.24-rc5.zip)
 #### Tools used for building this version
-Ubuntu 18.04LTS: 4.18.0-16-generic #17~18.04.1-Ubuntu<br />
-gcc (Ubuntu 7.3.0-27ubuntu1~18.04) 7.3.0<br />
+Ubuntu 18.04LTS: 4.18.0-16-generic #17-18.04.1-Ubuntu<br />
+gcc (Ubuntu 7.3.0-27ubuntu1-18.04) 7.3.0<br />
 id (GNU coreutils) 8.28<br />
 NASM version 2.13.02<br />
 
