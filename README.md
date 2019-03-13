@@ -14,7 +14,7 @@ id (GNU coreutils) 8.28<br />
 NASM version 2.13.02<br />
 
 ### gramado-v0.9-rc0 (compiled Jan 27 2019)
-Download: [gramado-v0.9-rc0.zip](https://raw.githubusercontent.com/VictorLopes/gramado-boxes/blob/master/gramado-v0.9-rc0.zip)
+Download: [gramado-v0.9-rc0.zip](https://raw.githubusercontent.com/VictorLopes/gramado-boxes/master/gramado-v0.9-rc0.zip)
 #### Tools used for building this version
 Fedora 29: 4.20.3-200.fc29.x86_64<br />
 gcc (GCC) 8.2.1 20181215<br />
